@@ -1,4 +1,3 @@
-# 💫 About Me:
 No time for fluff<br><br>I’m veshal raj : )<br>I’m interested in solving business problems using technologies.
 
 
