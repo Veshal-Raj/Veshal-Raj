@@ -1,4 +1,4 @@
-No time for fluff<br><br>I’m veshal raj : )<br>I’m interested in solving business problems using technologies.
+<br><br>I’m veshal raj : )<br>I’m interested in solving business problems using technologies.
 
 
 ## 🌐 Socials:
