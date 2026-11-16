@@ -101,8 +101,12 @@ I build **production-grade backend, AI, and enterprise applications**, taking pr
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Veshal-Raj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veshal-Raj&theme=dark&hide_border=false&layout=compact" alt="Top Languages"/>
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details"/>
+</p>
+
+<p align="center">
+  <img height="180" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats"/>
+  <img height="180" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top Languages"/>
 </p>
 
 <p align="center">
